@@ -1,6 +1,6 @@
 - Introduction
 
-Apply the transformation matrices(translation, rotation, scaling) to octupus object in order to build a 'moving octupus' scene.
+Apply the different transformation matrices(translation, rotation, scaling) to octupus body in order to build a complete octupus and a 'swimming octupus' scene.
 
 - Instruction
 
