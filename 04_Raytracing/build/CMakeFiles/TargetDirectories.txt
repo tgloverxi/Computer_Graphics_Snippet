@@ -1,0 +1,3 @@
+/Users/liwenxi/Downloads/raytracing.github.io-master/build/CMakeFiles/rebuild_cache.dir
+/Users/liwenxi/Downloads/raytracing.github.io-master/build/CMakeFiles/edit_cache.dir
+/Users/liwenxi/Downloads/raytracing.github.io-master/build/CMakeFiles/inOneWeekend.dir

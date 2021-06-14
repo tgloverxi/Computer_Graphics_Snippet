@@ -1,6 +1,6 @@
 /**
- * UBC CPSC 314, Vsep2015
- * Assignment 1 Template
+ * UBC Computer Graphics 
+ * 
  */
 var scene = new THREE.Scene();
 

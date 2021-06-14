@@ -1,6 +1,5 @@
 /**
- * UBC CPSC 314 (2016_W1)
- * Assignment 3
+ * UBC Computer Graphics 
  */
 
 // CREATE SCENE

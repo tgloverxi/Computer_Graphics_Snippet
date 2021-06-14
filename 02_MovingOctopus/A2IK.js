@@ -1,7 +1,6 @@
 /*
- * UBC CPSC 314 2020W1
- * Assignment 2
- * Transformations
+ * UBC Computer Graphics 
+ *
  */
 
 //*****************************TEMPLATE CODE DO NOT MODIFY********************************//
